@@ -1,2 +1,2 @@
 # BrainFeed
-An interactive quiz app that challenged your brain ability,
+An interactive quiz app that challenges your brain ability,
